@@ -11,4 +11,4 @@ Supported Android Version : 8.0 Oreo (API Level 26) <br>
 
 #### Download <br>
 
-[Coming soon](https://github.com/charan-kumar-137) <br>
+[Coming soon](https://github.com/charan-kumar-137/NoteHub) <br>
