@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NoteHub</string>
+
+    <string name="welcome_text">WELCOME</string>
+    <string name="login_text">LOGIN</string>
+    <string name="signup_text">SIGN UP</string>
+
+    <string name="name_hint">Enter your Name</string>
+    <string name="email_hint">Enter your Email</string>
+    <string name="password_hint">Enter your Password</string>
+
+    <string name="submit">SUBMIT</string>
+
+    <string name="home_app_name">NOTE HUB</string>
+    <string name="home_upload_button">UPLOAD</string>
+    <string name="home_download_button">DOWNLOAD</string>
+
+    <string name="file_name">Enter the name of the file</string>
+    <string name="file_name_warning">Save the files with different name as saving with same name
+        will override the old file</string>
+    <string name="file_chooser">Click Here To Choose the File</string>
+
+</resources>
